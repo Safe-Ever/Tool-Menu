@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/284.0.0.78.24;FBBV/397265547;FBRV/0;FBPN/com.facebook.katana;FBLC/bg_BG;FBMF/Vodafone;FBBD/Vodafone;FBDV/Lava Strom 5G;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
