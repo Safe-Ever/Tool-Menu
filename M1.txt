@@ -1,1 +1,1 @@
-[FBAN/EMA;FBAV/113.0.0.15.87;FBBV/696695641;FBRV/0;FBPN/com.facebook.lite;FBLC/sl_SI;FBMF/Grameenphone;FBBD/Grameenphone;FBDV/Vivo;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/EMA;FBAV/234.0.0.22.17;FBBV/919012398;FBRV/0;FBPN/com.facebook.lite;FBLC/ko_KR;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
