@@ -1,1 +1,1 @@
-[FBAN/EMA;FBAV/372.0.0.82.73;FBBV/242124175;FBRV/0;FBPN/com.facebook.lite;FBLC/hr_HR;FBMF/Teletalk;FBBD/Teletalk;FBDV/Motorola;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/EMA;FBAV/416.0.0.52.95;FBBV/144661519;FBRV/0;FBPN/com.facebook.lite;FBLC/ko_KR;FBMF/Teletalk;FBBD/Teletalk;FBDV/Motorola;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
